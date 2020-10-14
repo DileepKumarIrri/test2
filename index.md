@@ -8,7 +8,7 @@ header:
   exceprt: "                                                                               "                                                          
 ---
 
-I am a postdoctoral researcher in the Department of Bioengineering at the University of Pennsylvania, working with Professor Konrad Kording. I have a PhD in Applied Mathematics from the University of Washington.
+I am a data scientst in the Department of Developmental Neurobiology at the St Jude Children's Research Hospital. I have a PhD in Applied Mathematics from the University of Washington.
 
 ## Interests
 
