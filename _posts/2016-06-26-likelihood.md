@@ -100,9 +100,11 @@ which is typically found by solving $\frac{\partial}{\partial \theta}\mathcal{L}
 
 In the continuous case things are not so straightforward. We try the same argument for a real-valued random variable, $N$ observations $X^n = \{x_1, \dots, x_N \}$, and a parametric model $f(x; \theta)$. If we denote by
 
+<div>
 $$\begin{equation}
 p_D(x) = \frac{1}{N}\sum_{i=1}^{N}\delta(x-x_i)
 \end{equation}$$
+<\div>
 
 the 'empirical density', then trying the same argument gives:
 
