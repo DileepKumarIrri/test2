@@ -17,10 +17,12 @@ Maximum likelihood was developed and advocated by many figures throughout the hi
 Much of statistics relies on identifying models of data that are, in some sense, close to our observations. Indeed, in many cases it seems sensible that we seek models that are the closest to our observations. Maximum likelihood provides one principle by which we may identify theseclosest distributions. It has many appealing properties that make it an appropriate measure, and is a broadly applicable method. As we will see its simplicity is somewhat deceiving.
 
 The theory is easiest to describe in a discrete setting, which we will address first. Let
-
-\\[
+<div>
+$$
+\begin{equation}
 x = (x_1, x_2, \cdots, x_N)
-\\]
+\end{equation}
+$$
 
 describe $N$ observations drawn from a discrete probability distribution. Each draw $x_n\in\mathcal{X}$ is taken from an alphabet of $M$ characters, $\mathcal{X}=(a_1, \dots, a_M)$. Let $p_m$ denote the probability of drawing character $m$ in any one draw, and let $f_m$ denote the frequency of character $m$ is observed in the $N$ draws. Note that we're just describing a multinomial distribution having $M$ parameters $p_m$.
 
@@ -104,7 +106,7 @@ In the continuous case things are not so straightforward. We try the same argume
 $$\begin{equation}
 p_D(x) = \frac{1}{N}\sum_{i=1}^{N}\delta(x-x_i)
 \end{equation}$$
-<\div>
+</div>
 
 the 'empirical density', then trying the same argument gives:
 
@@ -151,6 +153,8 @@ $$\begin{equation}
 </div>
 
 Note that since $D_{KL} \ge 0$ and $D_{KL}(f\|g) = 0 \iff f = g$ then, under regularity conditions not specified here, this result implies the consistency of the MLE -- that $\theta_N \to^{P} \theta^*$ as $N\to\infty$. 
+
+</div>
 
 ## A reference
 
