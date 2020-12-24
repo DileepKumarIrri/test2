@@ -9,6 +9,7 @@ tags:
 use_math: true
 published: true
 ---
+<div>
 
 A brief overview of how causal inference and causal effects are formalized.
 
@@ -565,3 +566,5 @@ equation models, can be found in Peters et al 2017.
 
 -   “Elements of Causal Inference: Foundations and Learning Algorithms”
     Jonas Peters, Dominik Janzing and Bernhard Schölkopf, 2017.
+    
+</div>
