@@ -6,7 +6,7 @@ author_profile: false
 
 Code related to projects I have been involved in.
 
-1. Multi-agent behavior challenge (run on AICrowd, [here](https://www.aicrowd.com/challenges/multi-agent-behavior-representation-modeling-measurement-and-applications)) Task 1 code: classifying mouse behavior. Awarded third place. [github](https://github.com/benlansdell/mabetask1_ml)
+1. Multi-agent behavior challenge -- classifying mouse behavior (run on AICrowd, [here](https://www.aicrowd.com/challenges/multi-agent-behavior-representation-modeling-measurement-and-applications)). I was awarded third place. [github](https://github.com/benlansdell/mabetask1_ml)
 2. Meta-reinforcement learning algorithms for solving causal learning tasks [github](https://github.com/benlansdell/Meta-RL)
 3. Implementations of common linear contextual bandit algorithms [github](https://github.com/benlansdell/conservativerdd)
 4. Leaky integrate and fire (LIF) network that learns using causal inference (regression discontinuity design). [github](https://github.com/benlansdell/rdd)
