@@ -26,6 +26,7 @@ You can see my Google Scholar page [here](https://scholar.google.com/citations?u
 
 ## Select conference presentations and proceedings
 
+13. Ogg C, Franks H, Nolen H, **Lansdell B**, Shirinifard A, Schwarz L, "Defining the role of a locus coeruleus-orbitofrontal cortex circuit in behavioral flexibility", Cosyne 2022, Lisbon, Portugal
 12. **Lansdell B**, "Towards intervention-centric causal reasoning in learning agents", Workshop Causal Learning for Decision Making, ICLR 2020 ([pdf]({{site.baseurl}}/docs/Towards_intervention_centric_causal_reasoning_in_learning_agents__long_.pdf))
 11. **Lansdell B**, Prakash P, Kording K, "Learning to solve the credit assignment problem", NeurIPS Neuro+AI workshop 2019, Vancouver, BC, Canada
 10. Cheng J, Benjamin A, **Lansdell B**, Kording K, "Augmenting Supervised Learning by Meta-learning Unsupervised Local Rules", NeurIPS Neuro+AI workshop 2019, Vancouver, BC, Canada
@@ -41,7 +42,6 @@ You can see my Google Scholar page [here](https://scholar.google.com/citations?u
 
 ## Select talks
 
-16. Lansdell B (October 24, 2020), (upcoming) "Causality through learning-to-learn", Society for Neuroscience minisymposium. (Invited)
 15. Lansdell B (February 27, 2020),  "Causal considerations in deep and reinforcement learning", _Applied mathematics seminar_, Drexel University. (Invited)
 14. Lansdell B (February 13, 2020), "Is the brain a computer?", _Physics undergraduate seminar_, Western University, London, ON.
 13. Lansdell B (February 13, 2020), "The neuronal credit assignment problem as causal inference", _Physics colloquium_, Western University, London, ON. (Invited)
