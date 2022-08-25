@@ -10,9 +10,10 @@ You can see my Google Scholar page [here](https://scholar.google.com/citations?u
 
 (+ equal first author) 
 
-13. Baker B, **Lansdell B**, Kording K, "A Philosophical Understanding of Representation in Neuroscience", (_submitted_, [arXiv](https://arxiv.org/abs/2102.06592))
-12. **Lansdell B**, Triantafillou S, Kording K, "Rarely-switching linear bandits: optimization of causal effects for the real world", (_submitted_, [arXiv](https://arxiv.org/pdf/1905.13121.pdf))
-11. **Lansdell B**, Kording K, "Spiking allows neurons to estimate their causal effect", (_submitted_, [biorxiv](https://www.biorxiv.org/content/early/2018/01/25/253351))
+14. **Lansdell B**, Triantafillou S, Kording K, "Rarely-switching linear bandits: optimization of causal effects for the real world", (_submitted_, [arXiv](https://arxiv.org/pdf/1905.13121.pdf))
+13. **Lansdell B**, Kording K, "Spiking allows neurons to estimate their causal effect", (_submitted_, [biorxiv](https://www.biorxiv.org/content/early/2018/01/25/253351))
+12. Davenport, et al including **Lansdell B**, "Innate Frequency-discrimination hyperacuity in Williams-Beuren syndrome mice", _in press_ Cell 2022
+11. Baker B, **Lansdell B**, Kording K, "A Philosophical Understanding of Representation in Neuroscience", _in press_ Trends in Cognitive Sciences 2022, [arXiv](https://arxiv.org/abs/2102.06592)
 10. Yang S, Wang J, Gao T, Hu Z, Deng B, **Lansdell B**, Linares-Barranco B, "Efficient Neuromorphic Learning with Dendritic Event-driven Processing" Front. Neurosci. 2021, 15, 1-15
 9. **Lansdell B**, Prakash P, Kording K, "Learning to solve the credit assignment problem", ICLR 2020 ([arXiv](https://arxiv.org/abs/1906.00889))
 8. **Lansdell B**+, Milovanovic I+, Mellema C, Fairhall A, Fetz E, Moritz C, "Reconfiguring motor circuits for a joint manual and BCI task", IEEE Trans NSRE 2020 ([arXiv](https://arxiv.org/abs/1702.07368))
