@@ -10,7 +10,6 @@ You can see my Google Scholar page [here](https://scholar.google.com/citations?u
 
 (+ equal first author) 
 
-14. **Lansdell B**, Triantafillou S, Kording K, "Rarely-switching linear bandits: optimization of causal effects for the real world", (_submitted_, [arXiv](https://arxiv.org/pdf/1905.13121.pdf))
 13. **Lansdell B**, Kording K, "Spiking allows neurons to estimate their causal effect", (_submitted_, [biorxiv](https://www.biorxiv.org/content/early/2018/01/25/253351))
 12. Davenport, et al including **Lansdell B**, "Innate Frequency-discrimination hyperacuity in Williams-Beuren syndrome mice", _in press_ Cell 2022
 11. Baker B, **Lansdell B**, Kording K, "Three aspects of representation in neuroscience", _in press_ Trends in Cognitive Sciences 2022, [arXiv](https://arxiv.org/abs/2102.06592)
@@ -61,6 +60,7 @@ You can see my Google Scholar page [here](https://scholar.google.com/citations?u
 
 ## Unpublished work
 
+4. **Lansdell B**, Triantafillou S, Kording K, "Rarely-switching linear bandits: optimization of causal effects for the real world", ([arXiv](https://arxiv.org/pdf/1905.13121.pdf))
 3. Lagache T, **Lansdell B**, Tang J, Yuste R, Fairhall A, "Tracking Activity In A Deformable Nervous System With Motion Correction And Point-Set Registration", ([biorXiv](https://doi.org/10.1101/373035))
 2. Lansdell B, Understanding the Bcl-2 family through computational modelling, Masters thesis. Department of Mathematics and Statistics, University of Melbourne, 2012. ([pdf]({{site.baseurl}}/docs/mphil.pdf))
 1. Lansdell B, Computational Gene Prediction using Generalised Hidden Markov Models and Tiling Arrays, Honours thesis. Department of Mathematics and Statistics, University of Melbourne, 2008. ([pdf]({{site.baseurl}}/docs/honours_thesis.pdf))
