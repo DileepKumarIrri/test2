@@ -1,10 +1,10 @@
 ---
-permalink: /code/
-title: Code
+permalink: /projects/
+title: Projects
 author_profile: false
 ---
 
-Code related to projects I have been involved in.
+Here are some projects I have worked on, including code.
 
 1. ROI-decoder -- Streamlit app that computes a coarse estimate of stimuli tuning for calcium imaging data -- can be used in a semi-online fashion, during recording sessions to find responsive areas to to record further from ([github](https://github.com/benlansdell/roi-decoder))
 2. BehaveML -- DeepLabCut post-analysis package for animal behavior classification ([pypi](https://pypi.org/project/behaveml), [github](https://github.com/benlansdell/behaveml))
