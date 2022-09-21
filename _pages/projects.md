@@ -3,7 +3,7 @@ permalink: /projects/
 title: Projects
 author_profile: false
 header:
-  overlay_image: ../images/sanjuans.png
+  overlay_image: ../images/hurricane.png
   overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
 ---
 
