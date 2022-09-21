@@ -14,7 +14,7 @@ Here are some projects I have worked on, including code.
 1. ethome: a post-DeepLabCut analysis package for machine learning of animal behavior ([pypi](https://pypi.org/project/ethome-ml), [github](https://github.com/benlansdell/ethome))
 2. Analysis of neuronal spike trains, deconstructed: a comprehensive tutorial on common neural encoding methods (the GLM, spike-triggered average, spike-triggered covariance and others) with multiple datasets. ([github](https://github.com/NeuroInfoPrimer/primer))
 3. ROI-decoder: a streamlit app that computes a coarse estimate of stimuli tuning for calcium imaging data. Can be used in a semi-online fashion, during recording sessions to find responsive areas to to record further from ([github](https://github.com/benlansdell/roi-decoder))
-4. Non-linear waves model of reaction-diffusion model of cholinergic retinal waves. ([github](https://github.com/benlansdell/retinalwaves))
+4. A non-linear waves, reaction-diffusion model of cholinergic retinal waves. ([github](https://github.com/benlansdell/retinalwaves))
 
 **Machine learning**
 
