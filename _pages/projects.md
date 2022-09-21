@@ -2,6 +2,9 @@
 permalink: /projects/
 title: Projects
 author_profile: false
+header:
+  overlay_image: ../images/dst2_background.png
+  overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
 ---
 
 Here are some projects I have worked on, including code.
