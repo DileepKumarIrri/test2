@@ -1,9 +1,10 @@
 ---
 permalink: /research/
 title: Research interests
+author_profile: false
 header:
-  overlay_image: ../images/dst2_background.png
-  overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
+  overlay_image: ../images/computer.jpg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
 Machine learning (ML), particularly deep learning, has made significant advances in the past decades. However, there are many issues remaining before ML models can be safely, fairly and efficiently implemented in real-world applications. Many of these shortcomings are related to causation: in order to be safe, a model must make policies based on knowing what will happen when a given action is taken; in order to be fair, a model must not rely on spurious correlations to make predictions; and in order to be efficient, a model must learn relationships that are transferable from its training data to new tasks. By studying learning algorithms that address these issues we may also gain insight and inspiration for models of how we ourselves learn.
