@@ -2,6 +2,9 @@
 permalink: /publications/
 title: Publications
 author_profile: false
+header:
+  overlay_image: ../images/dst2_background.png
+  overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
 ---
 
 You can see my Google Scholar page [here](https://scholar.google.com/citations?user=vM_KsrQAAAAJ&hl=en), and a complete CV can be found [here]({{ site.baseurl }}/docs/lansdell_cv_academic.pdf).
