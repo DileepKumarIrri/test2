@@ -6,11 +6,19 @@ author_profile: false
 
 Here are some projects I have worked on, including code.
 
-1. ethome -- DeepLabCut post-analysis package for animal behavior classification ([pypi](https://pypi.org/project/ethome-ml), [github](https://github.com/benlansdell/ethome))
-2. ROI-decoder -- Streamlit app that computes a coarse estimate of stimuli tuning for calcium imaging data -- can be used in a semi-online fashion, during recording sessions to find responsive areas to to record further from ([github](https://github.com/benlansdell/roi-decoder))
-3. A Flask-based flight tracking web app ([github](https://github.com/benlansdell/flying-overhead)), and a Flask-Ask based Alexa skill that uses local ADSB-receiver data so you can ask your Echo what planes are nearby. ([github](https://github.com/benlansdell/raspberry-fly))
-4. TensorFlow code for meta-reinforcement learning algorithms for solving causal learning tasks ([github](https://github.com/benlansdell/Meta-RL))
-5. Implementations of common linear contextual bandit algorithms ([github](https://github.com/benlansdell/conservativerdd))
-6. Simple total variation image segmentation implemention ([github](https://github.com/benlansdell/segmentation)) 
-7. Neuroinformatics primer: Demonstration of GLM, STA, STC, and other methods on common datasets. ([github](https://github.com/NeuroInfoPrimer/primer))
-8. Simulation of reaction-diffusion model of cholinergic retinal waves. ([github](https://github.com/benlansdell/retinalwaves))
+Neuroscience
+
+1. ethome: a post-DeepLabCut analysis package for machine learning of animal behavior ([pypi](https://pypi.org/project/ethome-ml), [github](https://github.com/benlansdell/ethome))
+2. Analysis of neuronal spike trains, deconstructed: a comprehensive tutorial on common neural encoding methods (the GLM, spike-triggered average, spike-triggered covariance and others) with multiple datasets. ([github](https://github.com/NeuroInfoPrimer/primer))
+3. ROI-decoder: a streamlit app that computes a coarse estimate of stimuli tuning for calcium imaging data. Can be used in a semi-online fashion, during recording sessions to find responsive areas to to record further from ([github](https://github.com/benlansdell/roi-decoder))
+4. Non-linear waves model of reaction-diffusion model of cholinergic retinal waves. ([github](https://github.com/benlansdell/retinalwaves))
+
+Machine learning
+
+1. TensorFlow code for meta-reinforcement learning algorithms for solving causal learning tasks ([github](https://github.com/benlansdell/Meta-RL))
+2. Implementations of common linear contextual bandit algorithms ([github](https://github.com/benlansdell/conservativerdd))
+3. Simple total variation image segmentation implemention ([github](https://github.com/benlansdell/segmentation)) 
+
+Other
+
+1. A Flask-based flight tracking web app ([github](https://github.com/benlansdell/flying-overhead)), and a Flask-Ask based Alexa skill that uses local ADSB-receiver data so you can ask your Echo what planes are nearby. ([github](https://github.com/benlansdell/raspberry-fly))
