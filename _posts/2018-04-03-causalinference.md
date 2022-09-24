@@ -9,9 +9,9 @@ tags:
 use_math: true
 published: true
 ---
-<div>
-
 A brief overview of how causal inference and causal effects are formalized.
+
+<div>
 
 Say we observe a negative relationship between number of apples eaten
 per day and heart disease. Does this relationship mean that apples are
