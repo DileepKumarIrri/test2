@@ -14,7 +14,7 @@ You can see my Google Scholar page [here](https://scholar.google.com/citations?u
 (+ equal first author) 
 
 13. **Lansdell B**, Kording K, "Spiking allows neurons to estimate their causal effect", (_submitted_, [biorxiv](https://www.biorxiv.org/content/early/2018/01/25/253351))
-12. Baker B, **Lansdell B**, Kording K, "Three aspects of representation in neuroscience", _in press_ Trends in Cognitive Sciences 2022, ([arXiv](https://arxiv.org/abs/2102.06592))
+12. Baker B, **Lansdell B**, Kording K, "Three aspects of representation in neuroscience", (_in press_) Trends in Cognitive Sciences 2022, ([arXiv](https://arxiv.org/abs/2102.06592))
 11. Davenport C, Teubner B, Han S, Patton M, Eom T, Garic D, **Lansdell B**, Shirinifard A, Chang T, Klein J, Pruett-Miller S, Blundon J, Zakharenko S, "Innate Frequency-discrimination hyperacuity in Williams-Beuren syndrome mice", Cell 2022 ([doi](https://doi.org/10.1016/j.cell.2022.08.022))
 10. Yang S, Wang J, Gao T, Hu Z, Deng B, **Lansdell B**, Linares-Barranco B, "Efficient Neuromorphic Learning with Dendritic Event-driven Processing" Front. Neurosci. 2021, 15, 1-15
 9. **Lansdell B**, Prakash P, Kording K, "Learning to solve the credit assignment problem", ICLR 2020 ([arXiv](https://arxiv.org/abs/1906.00889))
