@@ -1,5 +1,5 @@
 ---
-title: "How to get AI to apply causal reasoning like us: transferring from observation to action"
+title: "New paper: How to get AI to apply causal reasoning like us -- transferring from observation to action"
 categories:
   - causality
 tags:

@@ -1,5 +1,5 @@
 ---
-title: "Neural Spiking for Causal Inference"
+title: "New preprint: Neural Spiking for Causal Inference"
 categories:
   - deep learning
 tags:

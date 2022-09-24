@@ -1,5 +1,5 @@
 ---
-title: "Reaction-diffusion models of spontaneous neural activity in the developing retina"
+title: "New paper: Reaction-diffusion models of spontaneous neural activity in the developing retina"
 categories:
   - retinal-waves
 tags:

@@ -1,5 +1,5 @@
 ---
-title: "Modelling a bistable switch underlying commitment to apoptosis"
+title: "New paper: Modelling a bistable switch underlying commitment to apoptosis"
 categories:
   - systems-biology
 tags:
