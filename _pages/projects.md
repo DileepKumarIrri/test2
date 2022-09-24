@@ -1,13 +1,13 @@
 ---
 permalink: /projects/
 title: Projects
-author_profile: false
+author_profile: true
 header:
   overlay_image: ../images/hurricane.png
   overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
 ---
 
-Here are some projects I have worked on, including code.
+Some recent projects I have worked on, with code.
 
 **Neuroscience**
 
@@ -19,8 +19,8 @@ Here are some projects I have worked on, including code.
 **Machine learning**
 
 1. TensorFlow code for meta-reinforcement learning algorithms for solving causal learning tasks ([github](https://github.com/benlansdell/Meta-RL))
-2. Implementations of common linear contextual bandit algorithms ([github](https://github.com/benlansdell/conservativerdd))
-3. Simple total variation image segmentation implemention ([github](https://github.com/benlansdell/segmentation)) 
+2. Implementation of common linear contextual bandit algorithms ([github](https://github.com/benlansdell/conservativerdd))
+3. Simple total-variation image segmentation ([github](https://github.com/benlansdell/segmentation)) 
 
 **Other**
 
