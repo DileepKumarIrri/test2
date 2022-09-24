@@ -3,10 +3,10 @@ title: "New preprint: Optimizing policies based on thresholds"
 categories:
   - statistics
 use_math: true
-published: false
+published: true
 ---
 
-<img src="../images/theorem3.png" width="55%">
+<img src="../../images/theorem3.png" width="55%">
 
 Here Sofia Triantafillou, Konrad Kording and I present a new method for optimizing policies that are based on simple thresholds, using theory from contextual linear bandits. 
 

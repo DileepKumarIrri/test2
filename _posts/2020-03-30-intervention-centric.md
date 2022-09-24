@@ -6,10 +6,10 @@ tags:
   - "reinforcement learning"
   - "causal inference"
 use_math: true
-published: false
+published: true
 ---
 
-<p style="text-align: center"><img src="../images/fig1_motivating_example.svg" width="75%"></p>
+<p style="text-align: center"><img src="../../images/fig1_motivating_example.svg" width="75%"></p>
 
 A super important problem in reinforcement learning, and machine learning more generally, is how to improve causal reasoning. I think a key part of the solution, for learning agents in particular, is admitting Russell's much-quoted observation that, when we closely examine the laws of physics, the concept of causality is no longer useful. What is causation if it can't be found within physics then? The answer, I think, is that causality is more part of how we parse the world -- our understanding as tool-using animals par excellence that, if *I* do something, then this will happen, and, importantly, the generalization that, if *someone or something else does something*, then the same thing may occur as if I had done it. 
 

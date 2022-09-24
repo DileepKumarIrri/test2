@@ -7,11 +7,11 @@ main:
   - title: "Publications"
     url: /publications/
  
-  - title: "Research"
-    url: /research/
+#  - title: "Research"
+#    url: /research/
 
 #  - title: "Trips"
 #    url: /trips/
 
-#  - title: "Overflow"
-#    url: /posts/
+  - title: "Overflow"
+    url: /posts/
