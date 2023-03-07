@@ -13,7 +13,7 @@ You can see my Google Scholar page [here](https://scholar.google.com/citations?u
 
 (+ equal first author) 
 
-13. **Lansdell B**, Kording K, "Spiking allows neurons to estimate their causal effect", (_submitted_, [biorxiv](https://www.biorxiv.org/content/early/2018/01/25/253351))
+13. **Lansdell B**, Kording K, "Neural spiking for causal inference and learning", PLOS Computational Biology 2023 (_in press_, [biorxiv](https://www.biorxiv.org/content/early/2018/01/25/253351))
 12. Baker B, **Lansdell B**, Kording K, "Three aspects of representation in neuroscience", Trends in Cognitive Sciences 2022, ([link](https://www.sciencedirect.com/science/article/pii/S1364661322002108?dgcid=author), [news article](https://penntoday.upenn.edu/news/defining-neural-representation))
 11. Davenport C, Teubner B, Han S, Patton M, Eom T, Garic D, **Lansdell B**, Shirinifard A, Chang T, Klein J, Pruett-Miller S, Blundon J, Zakharenko S, "Innate Frequency-discrimination hyperacuity in Williams-Beuren syndrome mice", Cell 2022 ([doi](https://doi.org/10.1016/j.cell.2022.08.022), [news article](https://www.sciencedaily.com/releases/2022/09/220923121710.htm))
 10. Yang S, Wang J, Gao T, Hu Z, Deng B, **Lansdell B**, Linares-Barranco B, "Efficient Neuromorphic Learning with Dendritic Event-driven Processing" Front. Neurosci. 2021, 15, 1-15
