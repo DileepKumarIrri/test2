@@ -19,8 +19,7 @@ Some recent projects I have worked on, with code.
 **Machine learning**
 
 1. TensorFlow code for meta-reinforcement learning algorithms for solving causal learning tasks ([github](https://github.com/benlansdell/Meta-RL))
-2. Implementation of common linear contextual bandit algorithms ([github](https://github.com/benlansdell/conservativerdd))
-3. Simple total-variation image segmentation ([github](https://github.com/benlansdell/segmentation)) 
+2. Simple total-variation image segmentation ([github](https://github.com/benlansdell/segmentation)) 
 
 **Other**
 
