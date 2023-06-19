@@ -8,7 +8,7 @@ header:
   exceprt: "                                                                               "                                                          
 ---
 
-I'm a research scientst at St Jude Children's Research Hospital. I have a PhD in Applied Mathematics from the University of Washington, with experience in computational neuroscience, AI, and bioinformatics. I develop novel machine learning and mathematical models of complex systems, particularly in the life sciences. I enjoy tackling challenging multidisciplinary problems to uncover scientific insights, and am passionate about building software tools to support and promote data science.
+I'm a machine learning engineer and research scientst with a PhD in Applied Mathematics from the University of Washington. I have experience in computational neuroscience, AI, and bioinformatics. I develop novel machine learning and mathematical models of complex systems, particularly in the life sciences. I enjoy tackling challenging multidisciplinary problems to uncover scientific insights, and am passionate about building software tools to support and promote data science.
 
 ## Bio
 
