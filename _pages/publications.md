@@ -13,6 +13,7 @@ You can see my Google Scholar page [here](https://scholar.google.com/citations?u
 
 (+ equal first author) 
 
+15. Ogg C, Franks H, **Lansdell B**, Hughes A, Lee J, Shirinifard A, Schwarz L, "Locus Coeruleus Facilitates Cognitive Map Remodeling and Behavioral Flexibility in Orbitofrontal Cortex" (_submitted_)
 14. **Lansdell B**, Shirinifard A, "Ethome: tools for machine learning of animal behavior" (_submitted_)
 13. **Lansdell B**, Kording K, "Neural spiking for causal inference and learning", PLOS Computational Biology 2023, 19 (4), ([link](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011005))
 12. Baker B, **Lansdell B**, Kording K, "Three aspects of representation in neuroscience", Trends in Cognitive Sciences 2022, ([link](https://www.sciencedirect.com/science/article/pii/S1364661322002108?dgcid=author), [news article](https://penntoday.upenn.edu/news/defining-neural-representation))
