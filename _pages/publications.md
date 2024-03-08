@@ -14,7 +14,7 @@ You can see my Google Scholar page [here](https://scholar.google.com/citations?u
 (+ equal first author) 
 
 15. Ogg C, Franks H, **Lansdell B**, Hughes A, Lee J, Shirinifard A, Schwarz L, "Locus Coeruleus Facilitates Cognitive Map Remodeling and Behavioral Flexibility in Orbitofrontal Cortex" (_submitted_)
-14. **Lansdell B**, Shirinifard A, "Ethome: tools for machine learning of animal behavior" Journal of Open Source Software 2024 (_accepted_) ([link](https://joss.theoj.org/papers/0472dab158806827a83da79e602e16e4))
+14. **Lansdell B**, Shirinifard A, "Ethome: tools for machine learning of animal behavior" Journal of Open Source Software 2024 ([link](https://joss.theoj.org/papers/0472dab158806827a83da79e602e16e4))
 13. **Lansdell B**, Kording K, "Neural spiking for causal inference and learning", PLOS Computational Biology 2023, 19 (4), ([link](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011005))
 12. Baker B, **Lansdell B**, Kording K, "Three aspects of representation in neuroscience", Trends in Cognitive Sciences 2022, ([link](https://www.sciencedirect.com/science/article/pii/S1364661322002108?dgcid=author), [news article](https://penntoday.upenn.edu/news/defining-neural-representation))
 11. Davenport C, Teubner B, Han S, Patton M, Eom T, Garic D, **Lansdell B**, Shirinifard A, Chang T, Klein J, Pruett-Miller S, Blundon J, Zakharenko S, "Innate Frequency-discrimination hyperacuity in Williams-Beuren syndrome mice", Cell 2022 ([doi](https://doi.org/10.1016/j.cell.2022.08.022), [news article](https://www.sciencedaily.com/releases/2022/09/220923121710.htm))
