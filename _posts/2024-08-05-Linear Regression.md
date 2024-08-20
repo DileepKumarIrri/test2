@@ -1,6 +1,15 @@
-Here's the same explanation in a neat markdown format with mathematical terms wrapped in `<div>$$</div>` for proper rendering:
-
 ---
+title: "Logistic Example"
+categories:
+  - computing
+tags:
+  - mathjax
+  - jekyll
+use_math: true
+published: true
+---
+
+
 
 ### 1. **Linear Regression Example**
 
