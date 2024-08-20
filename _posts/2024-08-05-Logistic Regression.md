@@ -1,3 +1,15 @@
+---
+title: "Logistic Example"
+categories:
+  - computing
+tags:
+  - mathjax
+  - jekyll
+use_math: true
+published: true
+---
+
+
 # Logistic Regression Example
 
 Let's go through a detailed mathematical example of logistic regression, focusing on how the coefficients are updated using gradient descent. We'll use a simple example with just one input feature.
