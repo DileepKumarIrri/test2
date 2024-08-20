@@ -37,11 +37,11 @@ Start with initial guesses for the coefficients:
 ## Step 2: Logistic Regression Model
 
 The logistic regression model for this example is:
-
+$$
 \[
 y_{\text{pred}} = \frac{1}{1 + e^{-(b_0 + b_1 \cdot x)}}
 \]
-
+$$
 ## Step 3: Iterative Coefficient Updates
 
 We'll go through one iteration of updating the coefficients using gradient descent. For simplicity, let's assume a learning rate \( \alpha = 0.3 \).
