@@ -39,9 +39,7 @@ Start with initial guesses for the coefficients:
 The logistic regression model for this example is:
 <div>
 $$
-\[
 y_{\text{pred}} = \frac{1}{1 + e^{-(b_0 + b_1 \cdot x)}}
-\]
 $$
 </div>
 ## Step 3: Iterative Coefficient Updates
