@@ -1,5 +1,5 @@
 ---
-title: "Logistic Example"
+title: "linear Example"
 categories:
   - computing
 tags:
@@ -108,7 +108,8 @@ Predicting a student's exam score (\( Y \)) based on the number of hours studied
 4. **Prediction Example:**
    - If a student studies for 4 hours:
 
-     <div>$$
+     <div>
+     $$
      Y = 43.5 + 6.5 \times 4 = 43.5 + 26 = 69.5
      $$
      </div>
