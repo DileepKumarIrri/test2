@@ -7,7 +7,7 @@ header:
   overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
 ---
 
-You can see my Google Scholar page [here](https://scholar.google.com/citations?user=vM_KsrQAAAAJ&hl=en), and a complete CV can be found [here]({{ site.baseurl }}/docs/lansdell_cv_academic.pdf).
+<!-- You can see my Google Scholar page [here](https://scholar.google.com/citations?user=vM_KsrQAAAAJ&hl=en), and a complete CV can be found [here]({{ site.baseurl }}/docs/lansdell_cv_academic.pdf).
 
 ## Articles
 
@@ -68,4 +68,4 @@ You can see my Google Scholar page [here](https://scholar.google.com/citations?u
 4. **Lansdell B**, Triantafillou S, Kording K, "Rarely-switching linear bandits: optimization of causal effects for the real world", ([arXiv](https://arxiv.org/pdf/1905.13121.pdf))
 3. Lagache T, **Lansdell B**, Tang J, Yuste R, Fairhall A, "Tracking Activity In A Deformable Nervous System With Motion Correction And Point-Set Registration", ([biorXiv](https://doi.org/10.1101/373035))
 2. Lansdell B, Understanding the Bcl-2 family through computational modelling, Masters thesis. Department of Mathematics and Statistics, University of Melbourne, 2012. ([pdf]({{site.baseurl}}/docs/mphil.pdf))
-1. Lansdell B, Computational Gene Prediction using Generalised Hidden Markov Models and Tiling Arrays, Honours thesis. Department of Mathematics and Statistics, University of Melbourne, 2008. ([pdf]({{site.baseurl}}/docs/honours_thesis.pdf))
+1. Lansdell B, Computational Gene Prediction using Generalised Hidden Markov Models and Tiling Arrays, Honours thesis. Department of Mathematics and Statistics, University of Melbourne, 2008. ([pdf]({{site.baseurl}}/docs/honours_thesis.pdf)) -->

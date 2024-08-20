@@ -9,7 +9,6 @@ use_math: true
 published: true
 ---
 
-
 # Logistic Regression Example
 
 Let's go through a detailed mathematical example of logistic regression, focusing on how the coefficients are updated using gradient descent. We'll use a simple example with just one input feature.
@@ -42,6 +41,7 @@ $$
 y_{\text{pred}} = \frac{1}{1 + e^{-(b_0 + b_1 \cdot x)}}
 $$
 </div>
+
 ## Step 3: Iterative Coefficient Updates
 
 We'll go through one iteration of updating the coefficients using gradient descent. For simplicity, let's assume a learning rate \( \alpha = 0.3 \).
@@ -50,47 +50,57 @@ We'll go through one iteration of updating the coefficients using gradient desce
 
 1. **Calculate \( z \)**:
    
-   \[
+   <div>
+   $$
    z = b_0 + b_1 \cdot x_1 = 0.0 + 0.0 \cdot 2.78 = 0.0
-   \]
+   $$
+   </div>
 
 2. **Calculate the predicted probability \( y_{\text{pred}} \)**:
    
-   \[
+   <div>
+   $$
    y_{\text{pred}} = \frac{1}{1 + e^{-0}} = 0.5
-   \]
+   $$
+   </div>
 
 3. **Calculate the error**:
    
-   \[
+   <div>
+   $$
    \text{Error} = y_{\text{true}} - y_{\text{pred}} = 0 - 0.5 = -0.5
-   \]
+   $$
+   </div>
 
 4. **Update the coefficients using gradient descent**:
    
    For \( b_0 \):
    
-   \[
+   <div>
+   $$
    b_0 = b_0 + \alpha \cdot \text{Error} \cdot y_{\text{pred}} \cdot (1 - y_{\text{pred}}) \cdot 1
-   \]
-   \[
+   $$
+   $$
    b_0 = 0.0 + 0.3 \cdot (-0.5) \cdot 0.5 \cdot (1 - 0.5) \cdot 1
-   \]
-   \[
+   $$
+   $$
    b_0 = 0.0 - 0.0375 = -0.0375
-   \]
+   $$
+   </div>
 
    For \( b_1 \):
    
-   \[
+   <div>
+   $$
    b_1 = b_1 + \alpha \cdot \text{Error} \cdot y_{\text{pred}} \cdot (1 - y_{\text{pred}}) \cdot x_1
-   \]
-   \[
+   $$
+   $$
    b_1 = 0.0 + 0.3 \cdot (-0.5) \cdot 0.5 \cdot (1 - 0.5) \cdot 2.78
-   \]
-   \[
+   $$
+   $$
    b_1 = 0.0 - 0.10425 = -0.10425
-   \]
+   $$
+   </div>
 
 After processing the first data point, the updated coefficients are:
 - \( b_0 = -0.0375 \)
@@ -100,41 +110,51 @@ After processing the first data point, the updated coefficients are:
 
 1. **Calculate \( z \)**:
    
-   \[
+   <div>
+   $$
    z = b_0 + b_1 \cdot x_2 = -0.0375 + (-0.10425) \cdot 1.46 = -0.189705
-   \]
+   $$
+   </div>
 
 2. **Calculate the predicted probability \( y_{\text{pred}} \)**:
    
-   \[
+   <div>
+   $$
    y_{\text{pred}} = \frac{1}{1 + e^{-(-0.189705)}} \approx \frac{1}{1 + 1.2089} \approx 0.4527
-   \]
+   $$
+   </div>
 
 3. **Calculate the error**:
    
-   \[
+   <div>
+   $$
    \text{Error} = y_{\text{true}} - y_{\text{pred}} = 0 - 0.4527 \approx -0.4527
-   \]
+   $$
+   </div>
 
 4. **Update the coefficients**:
 
    For \( b_0 \):
    
-   \[
+   <div>
+   $$
    b_0 = -0.0375 + 0.3 \cdot (-0.4527) \cdot 0.4527 \cdot (1 - 0.4527)
-   \]
-   \[
+   $$
+   $$
    b_0 = -0.0375 - 0.04475 = -0.08225
-   \]
+   $$
+   </div>
 
    For \( b_1 \):
    
-   \[
+   <div>
+   $$
    b_1 = -0.10425 + 0.3 \cdot (-0.4527) \cdot 0.4527 \cdot (1 - 0.4527) \cdot 1.46
-   \]
-   \[
+   $$
+   $$
    b_1 = -0.10425 - 0.09739 = -0.20164
-   \]
+   $$
+   </div>
 
 After processing the second data point, the updated coefficients are:
 - \( b_0 = -0.08225 \)
