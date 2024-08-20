@@ -39,13 +39,13 @@ Predicting a student's exam score (\( Y \)) based on the number of hours studied
      <div>
      $$
      b_1 = \frac{\sum{(X_i - \bar{X})(Y_i - \bar{Y})}}{\sum{(X_i - \bar{X})^2}}
-     $$
-     </div>
-
+     
+      
      Where:
      - \( X_i \) and \( Y_i \) are individual data points.
      - \( \bar{X} \) and \( \bar{Y} \) are the means of \( X \) and \( Y \) respectively.
-
+     $$
+     </div>
    - **Intercept Formula:**
 
      <div>
