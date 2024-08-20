@@ -71,28 +71,35 @@ Predicting a student's exam score (\( Y \)) based on the number of hours studied
 
      - Calculate means:
 
-       <div>$$
+       <div>
+       $$
        \bar{X} = \frac{1+2+3+4+5}{5} = 3, \quad \bar{Y} = \frac{50+55+65+70+75}{5} = 63
-       $$</div>
+       $$
+       </div>
 
      - Calculate \( b_1 \):
 
-       <div>$$
+       <div>
+       $$
        b_1 = \frac{(-2)(-13) + (-1)(-8) + (0)(2) + (1)(7) + (2)(12)}{4 + 1 + 0 + 1 + 4} = \frac{65}{10} = 6.5
-       $$</div>
+       $$
+       </div>
 
      - Calculate \( b_0 \):
 
-       <div>$$
+       <div>
+       $$
        b_0 = 63 - 6.5 \times 3 = 63 - 19.5 = 43.5
        $$
        </div>
 
      - **Regression Equation:**
 
-       <div>$$
+       <div>
+       $$
        Y = 43.5 + 6.5X
-       $$</div>
+       $$
+       </div>
 
 3. **Interpretation:**
    - The slope \( b_1 = 6.5 \) means that each additional hour studied increases the exam score by 6.5 points.
@@ -119,9 +126,11 @@ Predicting exam scores based on hours studied (\( X_1 \)) and the number of prac
 
 1. **Formulation of the Model:**
 
-   <div>$$
+   <div>
+   $$
    Y = b_0 + b_1X_1 + b_2X_2
-   $$</div>
+   $$
+   </div>
 
    Where:
    - \( Y \) = Predicted exam score
@@ -134,9 +143,11 @@ Predicting exam scores based on hours studied (\( X_1 \)) and the number of prac
 
    - **Using Normal Equations:**
 
-     <div>$$
+     <div>
+     $$
      \mathbf{b} = (\mathbf{X}^T \mathbf{X})^{-1} \mathbf{X}^T \mathbf{Y}
-     $$</div>
+     $$
+     </div>
 
      Where:
      - \( \mathbf{X} \) is the matrix of input variables (including a column of 1s for \( b_0 \)).
@@ -156,7 +167,8 @@ Predicting exam scores based on hours studied (\( X_1 \)) and the number of prac
 
      - Construct matrices \( \mathbf{X} \) and \( \mathbf{Y} \):
 
-       <div>$$
+       <div>
+       $$
        \mathbf{X} = \begin{pmatrix}
        1 & 1 & 1 \\
        1 & 2 & 2 \\
@@ -170,13 +182,16 @@ Predicting exam scores based on hours studied (\( X_1 \)) and the number of prac
        70 \\
        75
        \end{pmatrix}
-       $$</div>
+       $$
+       </div>
 
      - Calculate \( \mathbf{b} \):
 
-       <div>$$
+       <div>
+       $$
        \mathbf{b} = (\mathbf{X}^T \mathbf{X})^{-1} \mathbf{X}^T \mathbf{Y}
-       $$</div>
+       $$
+       </div>
 
      - Assume after calculations:
 
@@ -194,9 +209,11 @@ Predicting exam scores based on hours studied (\( X_1 \)) and the number of prac
 4. **Prediction Example:**
    - If a student studies for 3 hours and takes 2 practice tests:
 
-     <div>$$
+     <div>
+     $$
      Y = 40 + 5 \times 3 + 4 \times 2 = 40 + 15 + 8 = 63
-     $$</div>
+     $$
+     </div>
 
    - The model predicts an exam score of 63.
 
