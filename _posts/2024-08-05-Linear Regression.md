@@ -128,8 +128,8 @@ Predicting exam scores based on hours studied (\( X_1 \)) and the number of prac
 
    <div>
    $$
-   Y = b_0 + b_1X_1 + b_2X_2
-   $$
+    Y = b_0 + b_1X_1 + b_2X_2
+    $$
    </div>
 
    Where:
@@ -143,10 +143,10 @@ Predicting exam scores based on hours studied (\( X_1 \)) and the number of prac
 
    - **Using Normal Equations:**
 
-     <div>
-     $$
-     \mathbf{b} = (\mathbf{X}^T \mathbf{X})^{-1} \mathbf{X}^T \mathbf{Y}
-     $$
+    <div>
+    $$
+    \mathbf{b} = (\mathbf{X}^T \mathbf{X})^{-1} \mathbf{X}^T \mathbf{Y}
+    $$
      </div>
 
      Where:
